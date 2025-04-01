@@ -1,6 +1,9 @@
 # Easy Word Muter for X
 
+
 ![Extension Icon](./images/icon128.png)
+
+![howtouse](https://github.com/user-attachments/assets/9b96f8ce-1a05-4835-863d-5c56d1cd77b4)
 
 A Chrome extension that simplifies the process of muting words on X (formerly Twitter) by adding a convenient right-click context menu option.
 
