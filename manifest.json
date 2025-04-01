@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Easy Mute Words for X",
+  "version": "1.0",
+  "description": "Easily add mute words to X (Twitter) by right-clicking selected text",
+  "permissions": [
+    "contextMenus",
+    "scripting"
+  ],
+  "host_permissions": [
+    "https://x.com/*",
+    "https://twitter.com/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  }
+} 
