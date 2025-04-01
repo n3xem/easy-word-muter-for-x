@@ -19,7 +19,7 @@ A Chrome extension that simplifies the process of muting words on X (formerly Tw
 
 1. Select any text on any webpage
 2. Right-click the selected text
-3. Click "Xでミュートする" (Mute on X) from the context menu
+3. Click "Mute on X" from the context menu
 4. The extension will automatically:
    - Open X's muted words settings page
    - Fill in your selected text in the keyword field

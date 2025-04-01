@@ -1,7 +1,7 @@
 chrome.runtime.onInstalled.addListener(() => {
     chrome.contextMenus.create({
         id: "muteOnX",
-        title: "Xでミュートする",
+        title: "Mute on X",
         contexts: ["selection"]
     });
 });
